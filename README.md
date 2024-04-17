@@ -17,7 +17,5 @@ The project is divided into several stages:
 <li>Data infrastructure, during which we acquire the necessary data, provide data storage architecture and compute assets.</li>
 <li>EDA (exploratory data analysis), during which we vizualize data, detect outliers, find relations between variables, etc.</li>
 <li>Data preparation, during which we produce clean data for further engineering, extract new features, perform feature selection and create data pipeline.</li>
-<li>Modeling, during which we develop a range of ML models, evaluate their quality and performance on nested cross-validation, determine the model that is best suitable for the task, create prediction pipeline and provide clean code with a clear project structure.</li>
-<li>Deployment, during which we deploy the model with a data pipeline to a production-like environment and run tests to ensure the solution performs well, then introduce changes and modifications if necessary.</li>
 <li>Acceptance, during which we hand the project over to the customer.</li>
 <li>Each project-related task falls under a specific stage, satisfies the SMART criteria and has a corresponding stage label.</li>

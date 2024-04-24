@@ -19,3 +19,7 @@ The project is divided into several stages:
 <li>Data preparation, during which we produce clean data for further engineering, extract new features, perform feature selection and create data pipeline.</li>
 <li>Acceptance, during which we hand the project over to the customer.</li>
 <li>Each project-related task falls under a specific stage, satisfies the SMART criteria and has a corresponding stage label.</li>
+
+# Project Architecture
+![Screenshot (81)](https://github.com/adunajiye/Fraud-Detection-Pyspark/assets/80220180/4ed095a2-29e4-4cf1-83e3-d1b83c312c26)
+
